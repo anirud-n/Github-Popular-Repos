@@ -1,0 +1,50 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+}
+.each-list-item {
+  background-color: #f8f8ff;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.logo-image {
+  height: 50px;
+  margin-bottom: 15px;
+}
+
+.repo-name {
+  color: #e73959;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.image-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.small-logos {
+  height: 11px;
+  margin-right: 5px;
+}
+
+.rating-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.rating-text {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.span-text {
+  font-size: 12px;
+}
